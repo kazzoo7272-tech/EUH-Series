@@ -9,7 +9,7 @@ An independent research program developed 2022–2025 in Ontario, Canada.
 
 ### Papers (all permanently archived on Zenodo with DOIs)
 
-1. **EUH Foundation** → (https://orcid.org/0009-0004-7444-5472)
+1. **EUH Foundation** →[DOI](https://zenodo.org/badge/1101467954.svg)](https://doi.org/10.5281/zenodo.17701047)
 2. **CHF – Coherent Harmonic Field** → 
 3. **TTF – Triadic Topological Framework** → 
 4. **GFE – Gretzky Forecasting Engine** → 
